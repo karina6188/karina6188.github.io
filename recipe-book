@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        h1 {color: rgb(230, 39, 125);}
+        #karina-recipe1 {background-color: rgb(247, 245, 148);}
+        #karina-recipe2 {background-color: rgb(247, 245, 148);}
+        #karina-recipe3 {background-color: rgb(247, 245, 148);}
+        tr {color: rgb(237, 98, 156);}
+        
+        th {text-align:left;}
+        </style>
+    </head>
+    
+    <body>
+       
+        <h1 id="top">Karina's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#karina-recipe1">Karina's Homemade Red Sauce Spaghetti</a></li>
+            <li><a href="#karina-recipe2">Very Berry Yogurt</a></li>
+            <li><a href="#karina-recipe3">Chocolate Granola Bars</a></li>
+            
+        </ol>
+        
+        <h2 id="karina-recipe1">Home Made Red Sauce Spaghetti</h2>
+        
+         <img src="https://www.kasandbox.org/programming-images/food/pasta.png" alt="Red Sauce Spaghetti" width="400">
+         
+        <ul>
+            <li>Time: 40 mins</li>
+            <li>Serves: 5 servings</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Spaghetti</td>
+                    <td>5 servings</td>
+                </tr>
+                <tr>
+                    <td>Ground Pork</td>
+                    <td>1 pound</td>
+                </tr>
+                <tr>
+                    <td>Tomatos</td>
+                    <td>3 each</td>
+                </tr>
+                <tr>
+                    <td>Onion</td>
+                    <td>1 each</td>
+                </tr>
+                <tr>
+                    <td>Sun-Dried Tomatos</td>
+                    <td>3 table spoons</td>
+                </tr>
+                <tr>
+                    <td>Pasta Sauce</td>
+                    <td>1 large jar</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Boil a pot of water to cook spaghetti.<br>
+        <strong>Step 2:</strong> Chop tomatos and onion.<br>
+        <strong>Step 3:</strong> Add oil into a pan and start cooking ground pork for 3 mins.<br>
+        <strong>Step 4:</strong> Add tomatos and onions into the pan and cook.<br>
+        <strong>Step 5:</strong> Pour pasta sauce and sun-dried tomatos into the pan and cook everything for 2 mins.<br>
+        <strong>Step 6:</strong> Take cooked spaghetti from pot and add into the pan.<br>
+        <strong>Step 7:</strong> Cook for another 1 min until the spaghetti soaks up the sauce then turn off stove.
+            
+        </p>
+        
+    <p><em>Source: <a href="https://selfproclaimedfoodie.com/homemade-pasta/">Homemade recipes from Karina</a></em></p>
+    <p><a href="#top">Back to Top</a></p>
+    
+    
+    <h2 id="karina-recipe2">Very Berry Yogurt</h2>
+        
+         <img src="https://www.kasandbox.org/programming-images/food/berries.png" alt="Avocade Cobb Salad" width="400">
+         
+        <ul>
+            <li>Time: 5 mins</li>
+            <li>Serves: 3 servings</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Strawberries</td>
+                    <td>5 pieces</td>
+                </tr>
+                <tr>
+                    <td>Black Berries</td>
+                    <td>5 pieces</td>
+                </tr>
+                <tr>
+                    <td>Blue Berries</td>
+                    <td>10 pieces</td>
+                </tr>
+                <tr>
+                    <td>Plain Greek Yogurt</td>
+                    <td>2 cup</td>
+                </tr>
+                <tr>
+                    <td>Honey or Syrup</td>
+                    <td>2 table spoons</td>
+                </tr>
+                <tr>
+                    <td>Lemon Juice</td>
+                    <td>1 table spoon</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Wash all the fruits and dry them with paper towels.<br>
+        <strong>Step 2:</strong> Chop the fruits into smaller pieces.<br>
+        <strong>Step 3:</strong> Pour the fruits and greek yogurt into a big bowl.<br>
+        <strong>Step 4:</strong> Add honey or syrup into the bowl.<br>
+        <strong>Step 5:</strong> You can add some lemon juice into the bowl if you like a little sour taste.<br>
+        <strong>Step 6:</strong> Mix everything together.<br>
+        <strong>Step 7:</strong> Serve the very berry yogurt in small bowls.
+    </p>
+    
+    <p><em>Source: <a href="https://www.tasteofhome.com/recipes/berry-yogurt-cups/">Very Berry Yogurt</a></em></p>
+    <p><a href="#top">Back to Top</a></p>
+    
+    
+    <h2 id="karina-recipe3">Chocolate Granola Bars</h2>
+        
+         <img src="https://www.kasandbox.org/programming-images/food/chocolates.png" alt="Chocolate Granola Bars" width="400">
+         
+        <ul>
+            <li>Time: 15 mins</li>
+            <li>Serves: 5 servings</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Milk Chocolate Bar</td>
+                    <td>1 piece</td>
+                </tr>
+                <tr>
+                    <td>White Chocolate Bar</td>
+                    <td>1 piece</td>
+                </tr>
+                <tr>
+                    <td>Dark Chocolate Bar</td>
+                    <td>1 piece</td>
+                </tr>
+                <tr>
+                    <td>Dried-Fruits</td>
+                    <td>1 cup</td>
+                </tr>
+                <tr>
+                    <td>Unsalted Mixed Nuts or Granola</td>
+                    <td>1 cup</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Boil a pot of water and put another small bowl inside the pot.<br>
+        <strong>Step 2:</strong> Break chocolate bar into smaller pieces.<br>
+        <strong>Step 3:</strong> Put chocolcate into the small pot inside the big pot to cook until melt.<br>
+        <strong>Step 4:</strong> Grab a baking pan or chocolate mold and pour the chocolate into the pan or mold while it is still hot.<br>
+        <strong>Step 5:</strong> Add mixed nuts and dried-fruits to the top of the chocolate that you just poued.<br>
+        <strong>Step 6:</strong> You can pour different types of chocolate into the same pan or mold to create multi-color chocolate bars.<br>
+        <strong>Step 7:</strong> Put your chocolate pan or mold into refridgerator to cool it down.<br>
+        <strong>Step 8:</strong> When the chocolate is fully cooled and hardened, now you have your homemade chocolate granola bars.
+    </p>
+    
+    <p><em>Source: <a href="https://cooking.nytimes.com/recipes/1013622-granola-bars-with-chocolate">Chocolate Granola Bars</a></em></p>
+    <p><a href="#top">Back to Top</a></p>
+    
+    
+    
+    
+    
+    
+    
+    </body>
+</html>
