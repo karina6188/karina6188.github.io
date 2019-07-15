@@ -15,5 +15,6 @@
     <iframe
         src="https://www.mathsisfun.com/algebra/index.html;
         width="650";
-        height="500";>
+        height="500";
+        seamless;>
     </iframe>
