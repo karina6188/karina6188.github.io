@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>iframe Embeded</title>
+    </head>
+    <style>
+        body {font-family: "Adobe Hebrew", "Times New Roman"; background-color: rgb(190, 250, 0);}
+        h1 {color: rgb(255, 255, 255);
+            font-size: 1.8em;
+            line-height:35px;}
+    </style>
+    <h1>Test on How to Use iframe in HTML</h1>
+    <p>Below is a Google Map showing all the popular tourism locations in Banff National Park located in Alberta, Canada.</p>
+    <iframe
+        src="https://www.google.com/maps/@51.9331528,-117.8922804,8z/data=!3m1!4b1!4m3!11m2!2s1EOEiqox9YbLdWT0Hnsx9CylF8pM!3e2; output=embed"
+        width="450";
+        height="350";
+        frameborder="0";
+        scrolling="no";>
+    </iframe>
