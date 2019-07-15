@@ -14,8 +14,6 @@
     <p>Below is a Google Map showing all the popular tourism locations in Banff National Park located in Alberta, Canada.</p>
     <iframe
         src="https://www.google.com/maps/@51.9331528,-117.8922804,8z/data=!3m1!4b1!4m3!11m2!2s1EOEiqox9YbLdWT0Hnsx9CylF8pM!3e2; output=embed"
-        width="450";
-        height="350";
-        frameborder="0";
-        scrolling="no";>
+        width="650";
+        height="500";>
     </iframe>
